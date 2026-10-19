@@ -146,6 +146,8 @@ Respekt, férovost a bezpečné prostředí jsou základem komunity AUDENTES RP.
 
 - Je zakázáno hráče nutit do hlasového RP během grossu, pokud hráč sám nechce
 
+- V případě, že Gross zahájí kat, v jeho pravomocích, je Gross automaticky schválen
+
 ## 11. Passive RP
 
 - Hráč vždy přizpůsobí RP svému okolí. Pokud v tvém okolí není žádné NPC, tak tam prostě nikdo není.
