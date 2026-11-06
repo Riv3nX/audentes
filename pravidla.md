@@ -92,6 +92,40 @@ Respekt, férovost a bezpečné prostředí jsou základem komunity AUDENTES RP.
 
 - Jakékoliv podezření na metagaming se řeší výhradně přes ticket nebo report na A-Team. Je zakázáno tyto situace řešit IC cestou nebo je využívat v RP jako náhradu za OOC řešení
 
+### 4.1 Holubí pošta a zprávy na dálku
+
+- Psaná zpráva na dálku musí ve hře skutečně cestovat: holubem přes holubí poštu, nebo ji v inventáři nese hrající postava. Posel bez hráče („posílám sluhu s dopisem“) se nepočítá.
+
+- Holubí zprávu je možné rpit pouze tehdy, pokud byla skutečně odeslána přes holubí poštu ve hře.
+
+- Holub letí jen do holubníku, ze kterého byl vzat, přibližně 5 minut na kilometr. Zpráva přiletí do holubníku, ne k postavě.
+
+- Zpráva se píše na pergamen (`/psat`). U holubníku se pergamen přiváže k holubovi a holub se vypustí.
+
+- Zprávu vyzvedává u holubníku pán panství nebo hodnost s právem Holubí pošta. Dál ji může předat v RP.
+
+- Obsah zprávy zná pouze ten, kdo pergamen ve hře přečetl, nebo komu jej v RP přečetli či ukázali.
+
+- Oznámení o příletu holuba lze brát jako hlášení od služebnictva, že holub přiletěl. Obsah zprávy postava zná až po jejím vyzvednutí.
+
+Za porušení se považuje zejména:
+
+- RP typu „posílám holuba“ nebo „přiletěl holub se zprávou“, když ve hře žádný holub neletěl,
+
+  *např. `/me vypouští holuba se zprávou pro rychtáře`, aniž by ve hře holuba skutečně vypustil*
+
+- RP holuba, který přiletí přímo k postavě, do tábora nebo dříve, než ve hře doletěl,
+
+- RP zachycení či sestřelení holuba během letu a přečtení jeho zprávy (hra nic takového neumožňuje),
+
+- poslání zprávy přes Discord nebo jinou OOC cestou s tvrzením, že přišla holubem či poslem,
+
+- jednání podle obsahu zprávy, kterou postava ve hře nepřevzala, nečetla ani neslyšela,
+
+- znalost odesílatele nepodepsaného dopisu z jiného zdroje než ze hry.
+
+Porušení se posuzuje jako metagaming (pravidlo č. 4) nebo powergaming (pravidlo č. 7).
+
 ## 5. Poznávání hráčů
 
 - Poznat hráče pomocí hlasu není možné
@@ -115,6 +149,8 @@ Respekt, férovost a bezpečné prostředí jsou základem komunity AUDENTES RP.
 - Malé a fyzicky slabé postavy musí být RP přiměřeně slabé (ženy nebudou běhat s dvouručním mečem aj.)
 
 - Jakékoliv RP přehánění síly, výdrže nebo fyzických schopností, které je u dané postavy nerealistické, je považováno za powergaming
+
+- Zákaz rpit holubí zprávu či posla, které ve hře skutečně neproběhly (viz pravidlo 4.1)
 
 ## 8. Pravidlo inventáře
 
